@@ -1,9 +1,15 @@
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ramasubramanian7)
+
 [![Website](https://img.shields.io/badge/Website-FF7139?style=for-the-badge&logo=googlechrome&logoColor=white)](https://ramasubramanian.me/)
+
 [![Medium](https://img.shields.io/badge/Medium-000000?style=for-the-badge&logo=medium&logoColor=white)](https://medium.com/@ramasubramanian.d)
+
 ![Profile views](https://komarev.com/ghpvc/?username=ramasubramanian99&style=for-the-badge&color=0e75b6&label=Profile+Views)
 
-## Hi there 👋
+## Hi, I am Ram
+
+
+
 
 <!--
 **Ramasubramanian99/Ramasubramanian99** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
